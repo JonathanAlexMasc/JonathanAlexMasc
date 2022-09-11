@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Alex Mascarenhas!
-- 👀 I’m interested in solving problems that will make a difference to the world. 
+- 👀 I’m a Teaching Assistant at CSC Department of the South Dakota School of Mines and Technology. 
 - 🌱 I’m currently majoring in Computer Science at the South Dakota School of Mines and Technology
 - 📫 Contact me at my email mascarenhasjonathan@gmail.com or my linkedIn https://www.linkedin.com/in/jonathanmascarenhas/ 
 
